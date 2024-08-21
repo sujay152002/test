@@ -25,64 +25,63 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "YouTube Content Creator",
-    company_name: "Self Employed",
-    date: "2016 - Present",
+    title: "Data Analyst",
+    company_name: "Employed at VNJ Innovations",
+    date: "July 2024 - Present",
     details: [
-      "Built a subscriber base of over <span style='color: white;'>500,000 subscribers</span> by creating video content to help programmers.",
-      "Crafted visually appealling programming videos that have garnered over <span style='color: white;'>30,000,000 views</span>.",
-      "Produced high-quality educational and entertaining videos for clients including <span style='color: white;'>Intel, JetBrains, and MicroCenter</span>.",
+      "Performed Data Analysis on large data with over <span style='color: white;'>100,000 entries</span> as well as cleaned the data, and used visualization tools like Looker Studio to present data to stakeholders.",
+      "Crafted visually appealling website with over <span style='color: white;'>20 pages</span>.",
+      "Proven ability to <span style='color: white;'>translate complex analytical findings</span> into clear and actionable recommendations.",
+      "Produced reports based on Data collected by a streamline methods created by myself to better the existing performance for <span style='color: white;'>Sales and Medicine</span>, which ultimately helped progress.",
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Indie",
-    date: "2019 - 2023",
+    title: "Natural Language Processing",
+    company_name: "Cymbeline Innovatiions",
+    date: "Jan 2024 - Mar 2024",
     details: [
-      "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
-      "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
+      "Developed and delivered <span style='color: white;'> custom Machine Learning models</span> as per requested by the project leader.",
+      "<span style='color: white;'>Designed and developed innovative</span> AI applications.",
       "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
     ],
   },
   {
-    title: "Software Engineer",
-    company_name: "Prime 3",
-    date: "2018 - 2019",
+    title: "Data Analyst",
+    company_name: "Repute",
+    date: "Jan 2022 - Feb 2023",
     details: [
-      "Built custom enterprise applications for a <span style='color: white;'>Fortune 500 company</span> as a full-stack software engineer.",
-      "Developed and maintained <span style='color: white;'>scalable backend services</span>, ensuring high availability for critical business applications.",
-      "<span style='color: white;'>Collaborated with a team</span> to design and implement front-end interfaces.",
+      "Led a team of 20 and successfully coordinated high-profile events such as music, dancing and other types of recreational events while contributing to the creation of revenue-generating marketing visual content and <span style='color: white;'>showcasing exceptional leadership skills</span>.",
+      "Utilised Raw Data of past events to better the quality of future events and also <span style='color: white;'>predict the qualitative and quantitative parameters</span> of the audience.",
+      "<span style='color: white;'>Gathered and managed data</span> both primary and secondary , as well as created visual representations using python to convey thee findings to non-technical personnel",
     ],
   },
   {
-    title: "Computer Science",
-    company_name: "ODU",
+    title: "Data Analyst Intern",
+    company_name: "Campalin Innovations",
     date: "2015 - 2018",
     details: [
-      "Built a <span style='color: white;'>computer science foundation</span> learning theory, computer architecture, and software engineering.",
-      "Worked and interned at <span style='color: white;'>NASA and Norfolk Southern Railway</span> to gain practical experience in the field of data analysis.",
-      "Acted as a member of the <span style='color: white;'>Association for Computing Machinery</span> (ACM).",
+      "Developed and <span style='color: white;'>executed an efficient Intelligent System</span> for various purposes which include but are not limited to Loan Prediction using Machine Learning, Housing Prices Prediction Project, Stock Price Prediction using Machine Learning, Titanic Survival Project",
     ],
   },
 ];
 
 const portfolio = [
   {
-    name: "Open Source Computer Science Repo",
+    name: "Sign Language to Audio Project",
     description:
-      "A GitHub repo with over 17,000 stars containing a curated list of free online courses from reputable universities that satisfy undergraduate computer science requirements.",
+      "A Project in which I created a website which converts Sign Language, from a live feed camera to convert it into text and audio both in realtime.",
     image: oscs,
   },
   {
-    name: "Dev Notes",
+    name: "Website",
     description:
-      "A newsletter with over 6,000 readers made for software developers to keep up with this rapidly evolving industry, with a sister platform in progress.",
+      "Created a website for a Data Analyst company which was visually appealing and informative.",
     image: devnotes,
   },
   {
-    name: "Visually Understanding Algorithms",
+    name: "Courses Completed",
     description:
-      "A showcase of animated algorithms coded using TypeScript, with the video garnering over 400,000 views.",
+      "Completed various courses on coursera which include but are not limited to Artificial Intelligence, Machine Learning, 90 days of Python Bootcamp, etc.",
     image: algorithms,
   },
 ];
