@@ -53,11 +53,7 @@ const Navbar = () => {
           }}
         >
           <p className='text-white text-[26px] lg:text-[36px] font-bold pointer-events-auto cursor-pointer flex'>
-<<<<<<< HEAD
-            Sujay Menon
-=======
             SM
->>>>>>> 7f93c9c (Done)
           </p>
         </Link>
 
