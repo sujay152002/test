@@ -19,7 +19,11 @@
     "react-vertical-timeline-component": "^3.6.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@react-three/drei": "^9.111.1",
+=======
+    "@react-three/drei": "^9.111.2",
+>>>>>>> 7f93c9c (Done)
     "@react-three/fiber": "^8.17.5",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",

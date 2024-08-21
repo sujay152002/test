@@ -75,12 +75,12 @@
 
 .parallax__mountain1 {
   --parallax-speed: 250;
-  z-index: 5;
+  z-index: 6;
 }
 
 .parallax__mountain2 {
   --parallax-speed: 140;
-  z-index: 6;
+  z-index: 7;
 }
 
 .parallax__crater {
